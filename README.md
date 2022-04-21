@@ -18,11 +18,11 @@ Users should be able to:
 
 ### Screenshot
 
-![image](./design/desktop.png)
+![image](/desktop.png)
 
 ========= Desktop preview
 
-![image](./design/mobile.png)
+![image](/mobile.png)
 
 ========= Mobile preview
 
