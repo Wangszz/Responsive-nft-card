@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ https://www.frontendmentor.io/solutions/responsive-nft-preview-card-BJqy8TA4q]
-- Live Site URL: [wangszz-nft-card.netlify.app]
+- Live Site URL: [https://wangszz-nft-card.netlify.app]
 
 ## My process
 
