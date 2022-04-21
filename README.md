@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](wangszz-nft-card.netlify.app)
+- Solution URL: [ https://www.frontendmentor.io/solutions/responsive-nft-preview-card-BJqy8TA4q]
+- Live Site URL: wangszz-nft-card.netlify.app]
 
 ## My process
 
